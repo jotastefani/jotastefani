@@ -9,6 +9,10 @@ Em busca da oportunidade na área de TI.  <div>
 </div>
 About me ✨ Criando projetos pessoais 📚 
 
+           
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+
 
 
            
