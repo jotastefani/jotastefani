@@ -8,22 +8,7 @@ Em busca da oportunidade na área de TI.  <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotastefani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 About me ✨ Criando projetos pessoais 📚 
-           <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- 
-            <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- 
-            <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- 
-            <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- 
-            <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
- 
-            <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-          
-          
- 
- 
-            <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+           <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
           
           
           
