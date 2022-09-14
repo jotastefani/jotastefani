@@ -8,7 +8,7 @@ Em busca da oportunidade na área de TI.  <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotastefani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 ✨ Criando projetos pessoais 📚 
- <div justify-items="center" display="flex" <align-items:"center">
+ <div justify-items:"center" display:"flex" align-items:"center">
 <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
  <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
