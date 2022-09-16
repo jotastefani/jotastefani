@@ -9,18 +9,18 @@ Em busca da oportunidade na área de TI.  <div>
  
 ✨ Criando projetos pessoais 📚 
  <div justify-items:"center" display:"flex" align-items:"center">
-<img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
- <img height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
  </div>
           
           
